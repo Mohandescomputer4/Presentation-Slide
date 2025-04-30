@@ -1,2 +1,2 @@
 # Presentation-Slide
-I Present. You Suffer. Now Everyone Can!
+### یکسری دروس رو در دانشگاه ارائه دادم و بقیه رنج کشیدند، حالا این رو برای شما هم میزارم تا انتقالش بدید !!!
